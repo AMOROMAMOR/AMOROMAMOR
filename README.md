@@ -3,8 +3,7 @@
 
 > Building high-load analytics platforms, Telegram-native economies, and real-time payment rails for teams that move capital fast.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Product+Partner;TON+%26+Web3+Builder;Real-time+Analytics+Advocate)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=38BDF8&width=600&lines=Full-stack+Engineer;Product+Partner;TON+%26+Web3+Builder;Real-time+Analytics+Advocate)](https://git.io/typing-svg)
 ---
 
 ### 🚀 Snapshot

@@ -3,6 +3,8 @@
 
 > Building high-load analytics platforms, Telegram-native economies, and real-time payment rails for teams that move capital fast.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;Product+Partner;TON+%26+Web3+Builder;Real-time+Analytics+Advocate)](https://git.io/typing-svg)
+
 ---
 
 ### 🚀 Snapshot
@@ -78,5 +80,10 @@ High-load UX · Financial Reliability · Player Retention
 
 ---
 
-*"First, solve the problem. Then, write the code."*  
-© 2025 Roman Semyonov · MIT License
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</div>
+
+<div align="center" style="margin-top:20px; font-size:12px; letter-spacing:0.15em; text-transform:uppercase; color:#94a3b8;">
+MIT License · © 2025 Roman Semyonov
+</div>
